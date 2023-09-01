@@ -1,6 +1,7 @@
 {
   "orders": [
     {
+      "id" : 1,
       "name": "Tom Omele Mutanyi",
       "tel": "0712345678",
       "address": "Kakamega",
@@ -8,6 +9,7 @@
       "totalCost": "50000"
     },
     {
+      "id" : 2,
       "name": "William Nyongesa",
       "tel": "0712098345",
       "address": "Kisumu",
